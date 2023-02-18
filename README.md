@@ -1,2 +1,3 @@
-# work-ui-blog-template230215
-Este proyecto contiene una plantilla HTML/CSS de un blog.
+# Work UI Blog Template
+![Imagen de proyecto](screenshot-ui-blog.png)
+<img src="tech-tag.png" width="60%">
